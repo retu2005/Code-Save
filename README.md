@@ -1,13 +1,29 @@
 # Code-Save
-I don't have many ideas. I'll just upload my code so that I won't lose it in the future.
+这是一个markdown文件，用来保存一些代码，方便自己学习和使用。
+
+希望大家能够贡献自己的一份力量，共同完善这个项目。
+
+人参与的越多，知识的积累就越多。
+
+# 爬虫
+
+开始添加爬虫脚本，方便大家使用
+
+# 爱心代码
+
+添加爱心代码，可以发送给你们喜欢的人，增加一些生活的情趣，我们写代码的不是不懂浪漫，更多的是内在美
 
 
-This is my first attempt to upload code on GitHub. I hope to get everyone's support.
+# 注意事项
 
-
-The code is for practice. I hope it will be helpful for everyone's learning.
-
-
-These codes are for personal use only. Please do not use them for commercial purposes.
+1. 请不要滥用，不要过度使用，切勿滥用。
+2. 请不要上传违反相关法律法规的文件，如侵犯他人权益等。
+3. 请不要上传含有恶意代码的文件，如病毒、木马等。
+4. 请不要上传含有个人隐私的文件，如身份证号码、手机号码等。
+5. 请不要上传含有政治敏感信息的文件，如反动言论、民族歧视等。
+6. 请不要上传含有色情、暴力、恐怖等不良信息的文件。
+7. 请不要上传含有广告、推广、销售等信息的文件。
+8. 请不要上传含有虚假、夸大、误导等信息的文件。
+9. 请不要上传含有恶意攻击、侮辱、诽谤等信息的文件。
 
 
